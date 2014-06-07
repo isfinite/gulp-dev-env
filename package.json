@@ -1,0 +1,24 @@
+{
+  "name": "dev-env",
+  "version": "0.0.1",
+  "author": "Lauren Smith <isfinite@gmail.com>",
+  "devDependencies": {
+    "browserify": "^4.1.8",
+    "gulp": "^3.7.0",
+    "vinyl-source-stream": "^0.1.1",
+    "gulp-uglify": "^0.3.0",
+    "gulp-clean": "^0.3.0",
+    "gulp-concat": "^2.2.0",
+    "gulp-bower-files": "^0.2.4",
+    "gulp-rename": "^1.2.0",
+    "gulp-mocha": "^0.4.1",
+    "mocha": "^1.20.1",
+    "should": "^4.0.1",
+    "connect": "^2.19.3",
+    "less": "^1.7.0",
+    "gulp-less": "^1.2.3",
+    "gulp-minify-css": "^0.3.4",
+    "gulp-nodemon": "^1.0.4",
+    "nodemon": "^1.2.0"
+  }
+}

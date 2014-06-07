@@ -1,0 +1,9 @@
+{
+  "name": "dev-env",
+  "version": "0.0.1",
+  "authors": [
+    "Lauren Smith <isfinite@gmail.com>"
+  ],
+  "private": true,
+  "dependencies": {}
+}
